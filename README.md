@@ -1,5 +1,7 @@
 # Apimou - Simulateur d'automates programmables / Programmable Logic Controller Simulator
 
+🔖 Apimou is free software (not open source). See [LICENSE](LICENSE) for details.
+
 ![Apimou interface](./apimou_interface.png)
 
 ## 🇫🇷 Présentation
